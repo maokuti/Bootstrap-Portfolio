@@ -1,0 +1,16 @@
+.projectCard img {
+    height: 250px;
+    object-fit: cover;
+  }
+
+  .skill {
+    position: relative;
+    text-align: center;
+  }
+  
+  .skill i.fas.fa-check-circle {
+    position: absolute;
+    bottom: -20px;
+    left: 50%;
+    transform: translateX(-50%);
+  }
